@@ -1,0 +1,12 @@
+#faq-btns{
+    display: flex;
+    /* flex-wrap: nowrap; */
+    gap: 0.5rem;
+
+}
+
+#addNew-btn{
+    background-color: whitesmoke; 
+    padding: 0.6rem;
+    /* color: white; */
+}
